@@ -1,6 +1,6 @@
 # Superstore Sales & Profit Dashboard
 
-Interactive Excel dashboard analyzing retail sales, profit, and discounts from the Superstore dataset, built with PivotTables, charts, KPI cards, and slicers.
+Interactive Excel dashboard analyzing retail sales, profit & discounts from the Superstore dataset, built with PivotTables, charts, KPI cards, and slicers.
 <img width="768" height="536" alt="Superstore-Dashboard" src="https://github.com/user-attachments/assets/5eac5c93-35a1-4665-96ef-c1b71ee0b0d3" />
 
 
